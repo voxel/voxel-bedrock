@@ -1,0 +1,6 @@
+# voxel-bedrock
+
+## License
+
+MIT
+
