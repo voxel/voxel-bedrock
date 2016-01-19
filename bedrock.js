@@ -16,7 +16,7 @@ function BedrockPlugin(game, opts) {
 };
 
 BedrockPlugin.prototype.enable = function() {
-  this.registry.registerBlock('bedrock', {texture: 'bedrock'});
+  this.registry.registerBlock('bedrock', {texture: 'bedrock', hardness: Infinity});
 };
 
 BedrockPlugin.prototype.disable = function() {
