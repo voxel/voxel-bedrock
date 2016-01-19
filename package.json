@@ -2,14 +2,16 @@
   "name": "voxel-bedrock",
   "description": "",
   "version": "0.0.1",
-  "main": "voxel-bedrock.js",
+  "main": "bedrock.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:deathcap/voxel-bedrock.git"
   },
   "keywords": [
     "voxel",
-    "plugin"
+    "plugin",
+    "block",
+    "bedrock"
   ],
   "dependencies": {
   },
