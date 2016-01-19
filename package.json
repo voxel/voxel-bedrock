@@ -1,6 +1,6 @@
 {
   "name": "voxel-bedrock",
-  "description": "",
+  "description": "bedrock block with infinite hardness (voxel.js plugin)",
   "version": "0.0.1",
   "main": "bedrock.js",
   "repository": {
