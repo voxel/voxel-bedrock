@@ -5,7 +5,7 @@
   "main": "bedrock.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:deathcap/voxel-bedrock.git"
+    "url": "git@github.com:voxel/voxel-bedrock.git"
   },
   "keywords": [
     "voxel",
